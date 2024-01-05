@@ -12,3 +12,11 @@
     margin: 20px;
     width:fit-content;
 }
+
+.country
+{
+    width:fit-content;
+    padding: 20px;
+    background-color: rgba(69, 217, 69, 0.669);
+    margin:20px;
+}
