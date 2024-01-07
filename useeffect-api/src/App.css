@@ -1,0 +1,24 @@
+.products{
+    width:100%;
+    padding:20px 100px;
+    background-color:gray;
+    display: flex; 
+    column-gap: 4%;
+    gap:30px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.product{
+
+    width:30%;
+    padding:10px;
+    background-color:aqua ;
+    border: 1px solid black;
+    
+  
+}
+.p-image
+{
+    width: 100%;
+}
